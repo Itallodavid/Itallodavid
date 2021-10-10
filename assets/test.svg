@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-stylesheet href="/assets/style.css" type="text/css"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
@@ -10,6 +9,22 @@
    id="svg939"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+   <style>
+   :root {
+       --co: #fff;
+   } 
+
+   #layer1 #g1654 {
+      opacity: 1;
+      fill: var(--co);
+   }
+
+   @media (max-width: 320px) {
+      #layer1 #g1654 {
+         opacity: 0;
+      }
+   }
+   </style>
   <defs
      id="defs936" />
   <g
