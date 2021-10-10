@@ -26,7 +26,7 @@
   <g
      id="layer1">
     <rect
-       style="fill:#0e141a;fill-opacity:1;stroke:none;stroke-width:6.37044;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.745098"
+       style="fill:#0e141a;fill-opacity:0.27566493;stroke:none;stroke-width:6.37044;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.745098"
        id="rect31"
        width="1920"
        height="1080"
@@ -102,20 +102,20 @@
        transform="translate(-262.17769,-307.79908)"><tspan
          x="320"
          y="560"
-         id="tspan70559"><tspan
+         id="tspan989"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010681152"
            style="font-size:40px;fill:#b3b3b3"
-           id="tspan70557">I've been studying systems development for more than two years, </tspan></tspan><tspan
+           id="tspan987">I've been studying systems development for more than two years, </tspan></tspan><tspan
          x="320"
          y="610"
-         id="tspan70563"><tspan
+         id="tspan993"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010681152 0 0 0 0 0 0 0 0.00010681152"
            style="font-size:40px;fill:#b3b3b3"
-           id="tspan70561">at least a year I fell in love with Java and Typescript and since then </tspan></tspan><tspan
+           id="tspan991">at least a year I fell in love with Java and Typescript and since then </tspan></tspan><tspan
          x="320"
          y="660"
-         id="tspan70567"><tspan
+         id="tspan997"><tspan
            style="font-size:40px;fill:#b3b3b3"
-           id="tspan70565">I've been polishing my skills in these two languages.</tspan></tspan></text>
+           id="tspan995">I've been polishing my skills in these two languages.</tspan></tspan></text>
   </g>
 </svg>
