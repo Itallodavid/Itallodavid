@@ -1,0 +1,9 @@
+#layer1 #g1654 {
+    opacity: 1;
+ }
+
+ @media (max-width: 320px) {
+    #layer1 #g1654 {
+       opacity: 0;
+    }
+ }
