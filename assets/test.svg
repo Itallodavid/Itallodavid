@@ -12,7 +12,7 @@
 
    <style>
       @media only screen and (max-width: 600px) {
-         #defs936 {
+         #layer1 {
             display: none;
          }
       }
