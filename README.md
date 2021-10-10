@@ -2,4 +2,4 @@
 Um entusiasta em programação, possuo conhecimento com as seguintes tecnologias Java, TypeScript, AWS.
 
 [Linkedin](https://www.linkedin.com/in/itallodavid/)
-![imagem](/assets/icons8-git.svg)
+<image src="/assets/test.svg" width="300" />
