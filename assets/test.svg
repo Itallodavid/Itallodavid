@@ -9,6 +9,14 @@
    id="svg939"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+
+   <style>
+      @media only screen and (max-width: 600px) {
+         #defs936 {
+            display: none;
+         }
+      }
+   </style>
   <defs
      id="defs936" />
   <g
