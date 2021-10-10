@@ -11,8 +11,10 @@
    xmlns:svg="http://www.w3.org/2000/svg">
 
    <style>
-      #layer1 {
-         display: none;
+      @media (max-width: 320px) {
+         [id=layer1] {
+            display: none;
+         }
       }
    </style>
   <defs
