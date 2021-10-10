@@ -13,11 +13,12 @@
    <style>
       #layer1 #g1654 {
          transition: all 1s ease-in-out;
+         opacity: 1;
       }
 
       @media (max-width: 320px) {
          #layer1 #g1654 {
-            fill-opacity:0;
+            opacity: 0;
          }
       }
    </style>
