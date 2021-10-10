@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    width="1920"
    height="1080"
@@ -9,6 +8,13 @@
    id="svg5"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+   <style>
+   html[data-color-mode="light"] #layer2 {
+
+      display: none;
+
+   }
+</style>
   <defs
      id="defs2">
     <linearGradient
