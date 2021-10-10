@@ -11,9 +11,13 @@
    xmlns:svg="http://www.w3.org/2000/svg">
 
    <style>
+      #layer1 #g1654 {
+         transition: all 1s ease-in-out;
+      }
+
       @media (max-width: 320px) {
          #layer1 #g1654 {
-            display: none;
+            fill-opacity:0;
          }
       }
    </style>
