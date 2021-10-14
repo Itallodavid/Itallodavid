@@ -9,11 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
    <style>
-      [data-color-mode="light"] #layer2 {
-
-         display: none;
-
-      }
+      
+   </style>
 </style>
   <defs
      id="defs2">
@@ -32,7 +29,7 @@
   <g
      id="layer1">
     <rect
-       style="fill:#0e141a;fill-opacity:0.27566493;stroke:none;stroke-width:6.37044;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.745098"
+       style="fill:currentColor;fill-opacity:0.27566493;stroke:none;stroke-width:6.37044;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.745098"
        id="rect31"
        width="1920"
        height="1080"
